@@ -21,16 +21,16 @@ Instructions
 
 Call `ezValidation.init()` in your js file after jQuery include. 
 
-**NOTE**
+NOTE
+-------------------------
+
 Currently under development, will be turned into a full plugin soon.
 
-**CONFIG OPTIONS**
+Available Configuration Options:
+-------------------------
+      
+       OPTION        DEFAULT VALUE
 
-config: {
-    reqClassName: 'req', 
-    errorClassName: 'error',
-    emailClassName: 'email'
-  },
-
-
-
+	   reqClassName     =   'req'
+	   errorClassName   =  'error'
+	   emailClassName   =   'email'
